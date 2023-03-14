@@ -3,7 +3,7 @@
 
 This API has user registration and authenticaiton
 
-##Tech stack:##
+##Tech stack:
 - Springboot 3
 - Java 17
 - MySQL
