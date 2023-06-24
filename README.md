@@ -11,6 +11,6 @@ This API has user registration and authenticaiton
 
 Notes:
 1. Change database config (port, user, pswd, db, etc) in application.properties file
-2. The API uses MySQL as the database server, but with litle to no changes, it can work with multiple relational database
+2. The API uses MySQL as the database server, but with little to no changes, it can work with multiple relational database
 
 Feel free to use this template for any of your projects :D 
